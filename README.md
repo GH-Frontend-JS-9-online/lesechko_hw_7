@@ -1,1 +1,0 @@
-# lesechko_hw_7
