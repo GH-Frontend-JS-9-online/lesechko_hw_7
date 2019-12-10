@@ -85,8 +85,8 @@
         1. URL: <https://edabit.com/challenge/6ALbTxgu8BZaa6YYN>
         2. Solution: <http://prnt.sc/q8w4i8>
      5. Challange 5
-        1. URL: <>
-        2. Solution: <>    
+        1. URL: <https://edabit.com/challenge/w5LTwJwDLK4uQ3Dmv>
+        2. Solution: <http://prnt.sc/q8y4x3>    
        ***
 
   6. Objects
