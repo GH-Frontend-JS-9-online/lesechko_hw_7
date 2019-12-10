@@ -76,14 +76,14 @@
         1. URL: <https://edabit.com/challenge/wTQpSEZPpPdyLtK9k> 
         2. Solution: <http://prnt.sc/q88pti> 
      2. Challenge 2
-        1. URL: <>
-        2. Solution: <>
+        1. URL: <https://edabit.com/challenge/9tJ97HK3c4Koy3KsF>
+        2. Solution: <http://prnt.sc/q8r5mf>
      3. Challange 3
-        1. URL: <>
-        2. Solution: <>
+        1. URL: <https://edabit.com/challenge/ejzLBYvAtAiKk9HnP>
+        2. Solution: <http://prnt.sc/q8sjyz>
      4. Challange 4
-        1. URL: <>
-        2. Solution: <>
+        1. URL: <https://edabit.com/challenge/6ALbTxgu8BZaa6YYN>
+        2. Solution: <http://prnt.sc/q8w4i8>
      5. Challange 5
         1. URL: <>
         2. Solution: <>    
